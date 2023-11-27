@@ -34,17 +34,21 @@
 
 ## Hasil dari program akan seperti berikut 
 
+
+
+
+
 ### 1. Hasil Utama Program
-![First](images/halaman_utama.png)
+![image](https://github.com/tiostwn/PWEB-CRUD-Siswa/assets/53292102/02f9379f-8fc2-41da-b66e-7462255de43b)
 
 ### 2. Melakukan Pendaftaran Baru
-![Second](images/daftar.png)
+![image](https://github.com/tiostwn/PWEB-CRUD-Siswa/assets/53292102/2309e581-8361-4c21-81c9-5a5896e3630c)
+
 
 ### 3. Tampilan Data Siswa Beserta Data Yang Baru Saja Dimasukkan
-![Third](images/database.png)
+![image](https://github.com/tiostwn/PWEB-CRUD-Siswa/assets/53292102/d870449c-9e89-4648-97dd-8bd8735c6ae2)
 
 ### 3. Melakukan Proses Edit Data
-![Four](images/edit.png)
+![image](https://github.com/tiostwn/PWEB-CRUD-Siswa/assets/53292102/6e0372c3-bf1f-4f52-a799-c2d17b8d164a)
 
-### 3. Melakukan Proses Hapus Data
-![Five](images/hapus.png)
+
